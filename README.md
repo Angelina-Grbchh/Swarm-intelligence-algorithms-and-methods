@@ -1,1 +1,1 @@
-# Swarm-intelligence-algorithms-and-methods
+# Алгоритми та методи ройового інтелекту
